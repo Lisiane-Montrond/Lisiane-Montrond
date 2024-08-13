@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Lisiane-Montrond
+- 💼 I currently work as a designer and photographer
 - 👀 I’m interested in UX and UI Design
 - 🌱 I’m currently learning Web and App Design to improve my skills
 - 💞️ I’m looking to collaborate on application development projects
